@@ -7,3 +7,4 @@ tensorflow
 matplotlib
 nest_asyncio
 nest_asyncio
+altair
