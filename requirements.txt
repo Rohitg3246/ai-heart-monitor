@@ -7,4 +7,5 @@ tensorflow
 matplotlib
 nest_asyncio
 nest_asyncio
-altair
+altair==4.2.2
+
