@@ -1,0 +1,9 @@
+streamlit==1.18.1
+tornado==6.1
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+nest_asyncio
+nest_asyncio
